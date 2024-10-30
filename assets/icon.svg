@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="128px" height="128px" viewBox="0 0 128 128" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.3 (51167) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 24</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="57.3177392%" y1="44.0144604%" x2="-27.8121948%" y2="44.0144598%" id="linearGradient-1">
+            <stop stop-color="#1F5E90" offset="0%"></stop>
+            <stop stop-color="#209CFF" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group-24">
+            <rect id="Rectangle-16" fill="url(#linearGradient-1)" x="0" y="0" width="128" height="128"></rect>
+            <g id="Group" transform="translate(20.000000, 13.000000)" fill="#FFFFFF">
+                <text id="ListApp" font-family="ProximaNova-Semibold, Proxima Nova" font-size="22" font-weight="500" letter-spacing="2" fill-opacity="0.905655571">
+                    <tspan x="0.684" y="70">ListApp</tspan>
+                </text>
+                <text id="Manager" font-family="ProximaNova-Semibold, Proxima Nova" font-size="18" font-weight="500" letter-spacing="1.63636363" fill-opacity="0.905655571">
+                    <tspan x="3.30145462" y="97">Manager</tspan>
+                </text>
+                <g id="social-26" transform="translate(29.000000, 0.000000)" fill-rule="nonzero">
+                    <path d="M24.9186161,32.7886885 C29.3102892,27.5764609 32,21.8428817 32,16 C32,7.163444 24.836556,0 16,0 C7.163444,0 0,7.163444 0,16 C0,21.8428817 2.6897108,27.5764609 7.0813839,32.7886885 C10.3173304,36.6292497 14.3956181,40 16,40 C17.6043819,40 21.6826696,36.6292497 24.9186161,32.7886885 Z M14.6488636,34.7083977 C13.173586,33.4890643 11.5882018,31.9297128 10.1403263,30.2113115 C6.3013909,25.6550971 4,20.7492882 4,16 C4,9.372583 9.372583,4 16,4 C22.627417,4 28,9.372583 28,16 C28,20.7492882 25.6986091,25.6550971 21.8596737,30.2113115 C20.4117982,31.9297128 18.826414,33.4890643 17.3511364,34.7083977 C16.8427526,35.1285826 16,35.7487515 16,35.7487515 C16,35.7487515 15.2422247,35.1988172 14.6488636,34.7083977 Z M10.9634676,14.9416347 C10.5773642,14.5503675 10.1719033,14.6749529 10.0778885,15.2073685 C10.0778885,15.2073685 10,15.3850689 10,16 C10,19.3137085 12.6862915,22 16,22 C19.3137085,22 22,19.3137085 22,16 C22,12.6862915 19.3137085,10 16,10 C15.3850689,10 15.2073685,10.0778885 15.2073685,10.0778885 C14.6693406,10.1808769 14.5907247,10.5430087 14.992726,10.9206785 C14.992726,10.9206785 16,11.4571533 16,13 C16,14.6568542 14.8000183,16 13,16 C11.7546997,16 10.9634676,14.9416347 10.9634676,14.9416347 Z" id="Combined-Shape"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
